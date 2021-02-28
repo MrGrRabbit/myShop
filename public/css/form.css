@@ -1,0 +1,28 @@
+
+body {
+   background: #e6f4fd;
+   font-family: 'Roboto', sans-serif;
+   padding: 50px;
+   font-size: 20px;
+}
+button{
+   
+   margin-top: 10px;
+   padding:7px 25px;
+}
+label{
+   display: block;
+   margin: 3px 3px;
+}
+
+.agreeTerms > div:nth-child(1) > label:nth-child(1){
+   display: contents;
+   
+}
+#registration_form_agreeTerms{
+   margin-left: 8px;
+}
+
+h1{
+   margin-bottom: 10px;
+}
